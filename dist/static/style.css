@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('./fonts/icomoon.eot?hk8na5');
+  src:  url('./fonts/icomoon.eot?hk8na5#iefix') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?hk8na5') format('truetype'),
+    url('./fonts/icomoon.woff?hk8na5') format('woff'),
+    url('./fonts/icomoon.svg?hk8na5#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-heart:before {
+  content: "\e908";
+}
+.icon-love:before {
+  content: "\e908";
+}
+.icon-like:before {
+  content: "\e908";
+}
+.icon-shopping_cart:before {
+  content: "\e900";
+}
+.icon-chevron-right:before {
+  content: "\e901";
+}
+.icon-chevron-left:before {
+  content: "\e902";
+}
+.icon-thumbs-down:before {
+  content: "\e903";
+}
+.icon-dislike:before {
+  content: "\e903";
+}
+.icon-thumbs-up:before {
+  content: "\e904";
+}
+.icon-like2:before {
+  content: "\e904";
+}
+.icon-approve:before {
+  content: "\e904";
+}
+.icon-plus-alt:before {
+  content: "\e905";
+}
+.icon-add:before {
+  content: "\e905";
+}
+.icon-check-alt:before {
+  content: "\e906";
+}
+.icon-checkmark:before {
+  content: "\e906";
+}
+.icon-tick:before {
+  content: "\e906";
+}
+.icon-minus-alt:before {
+  content: "\e907";
+}
+.icon-remove:before {
+  content: "\e907";
+}
+.icon-delete:before {
+  content: "\e907";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
